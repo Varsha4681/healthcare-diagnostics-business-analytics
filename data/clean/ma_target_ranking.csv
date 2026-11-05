@@ -1,0 +1,6 @@
+Rank,TargetCompany,City,Specialisation,Revenue_Cr,EBITDA_Cr,EBITDAMargin,WeightedScore,Rank_FinanceLed,EV_Low_Cr,EV_High_Cr,TargetRevenue_vs_OurRevenue
+1,Aarogya Genomics (fictional),Pune,Oncology,8.5,1.45,0.19,3.78,2,14.5,20.3,3.0
+2,SouthGene Diagnostics (fictional),Chennai,Reproductive Health,11.0,1.98,0.18,3.69,3,19.8,27.7,3.9
+3,Coastal Genomics Centre (fictional),Bhubaneswar,Inherited Disorders,3.1,0.62,0.2,3.45,1,6.2,8.7,1.1
+4,Eastern Molecular Labs (fictional),Kolkata,Inherited Disorders,5.2,0.78,0.15,2.88,4,7.8,10.9,1.8
+5,NorthStar Precision Labs (fictional),Gurugram,Oncology;Inherited Disorders,7.6,0.95,0.125,2.85,5,9.5,13.3,2.7

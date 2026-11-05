@@ -1,0 +1,6 @@
+CompetitorID,CompetitorName,Headquarters,TestCategories,BenchmarkBasis,PriceIndexVsOurCompany,DataNote
+COMP01,GenDx Analytics (fictional),Bengaluru,Oncology; Reproductive Health,Illustrative public-facing price index,1.0,Illustrative only
+COMP02,NovaGene Labs (fictional),Mumbai,Oncology; Inherited Disorders,Illustrative public-facing price index,0.94,Illustrative only
+COMP03,HelixPath Diagnostics (fictional),Delhi NCR,Reproductive Health; Inherited Disorders,Illustrative public-facing price index,1.08,Illustrative only
+COMP04,AsterGen Testing (fictional),Hyderabad,Oncology; Reproductive Health; Inherited Disorders,Illustrative public-facing price index,0.97,Illustrative only
+COMP05,GeneBridge Clinical (fictional),Chennai,Oncology; Inherited Disorders,Illustrative public-facing price index,1.04,Illustrative only

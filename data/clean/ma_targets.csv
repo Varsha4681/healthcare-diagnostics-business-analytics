@@ -1,0 +1,6 @@
+TargetID,TargetCompany,City,Specialisation,AnnualRevenueINR,EBITDAINR,EBITDAMargin,StrategicFitScore_1to5,GeographicFitScore_1to5,CapabilityFitScore_1to5
+TGT01,Aarogya Genomics (fictional),Pune,Oncology,85000000,14500000,0.19,4,3,4
+TGT02,Eastern Molecular Labs (fictional),Kolkata,Inherited Disorders,52000000,7800000,0.15,3,4,3
+TGT03,SouthGene Diagnostics (fictional),Chennai,Reproductive Health,110000000,19800000,0.18,4,4,4
+TGT04,NorthStar Precision Labs (fictional),Gurugram,Oncology;Inherited Disorders,76000000,9500000,0.125,3,3,4
+TGT05,Coastal Genomics Centre (fictional),Bhubaneswar,Inherited Disorders,31000000,6200000,0.2,2,4,3

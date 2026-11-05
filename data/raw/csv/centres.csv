@@ -1,0 +1,13 @@
+CentreID,CentreName,City,State,Region,MonthlyCapacityTests
+C001,Bengaluru Central,Bengaluru,Karnataka,South,1800
+C002,Bengaluru North,Bengaluru,Karnataka,South,1400
+C003,Hyderabad Hub,Hyderabad,Telangana,South,1600
+C004,Chennai Centre,Chennai,Tamil Nadu,South,1300
+C005,Mumbai West,Mumbai,Maharashtra,West,1900
+C006,Pune Centre,Pune,Maharashtra,West,1200
+C007,Delhi NCR,New Delhi,Delhi,North,2000
+C008,Gurugram Centre,Gurugram,Haryana,North,1200
+C009,Kolkata Centre,Kolkata,West Bengal,East,1100
+C010,Ahmedabad Centre,Ahmedabad,Gujarat,West,1000
+C011,Jaipur Centre,Jaipur,Rajasthan,North,900
+C012,Bhubaneswar Centre,Bhubaneswar,Odisha,East,800

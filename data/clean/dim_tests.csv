@@ -1,0 +1,9 @@
+TestID,Category,TestName,ListPriceINR,DirectCostINR,TargetTATHours
+T001,Oncology,BRCA1/BRCA2 Panel,14500,5200,48
+T002,Oncology,Comprehensive Cancer Panel,22000,8200,72
+T003,Oncology,Liquid Biopsy Panel,28000,11000,96
+T004,Reproductive Health,NIPT,18000,6500,72
+T005,Reproductive Health,Carrier Screening,12500,4300,60
+T006,Inherited Disorders,Whole Exome Sequencing,32000,12500,120
+T007,Inherited Disorders,Targeted Gene Panel,16000,5700,72
+T008,Inherited Disorders,Thalassemia Screening,4500,1300,36

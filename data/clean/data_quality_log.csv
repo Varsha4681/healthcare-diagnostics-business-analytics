@@ -1,0 +1,16 @@
+Check,Result,Action
+Rows,5200,"expected 5,200"
+Null cells,0,none to treat
+Fully duplicated rows,0,none to drop
+Duplicate OrderIDs,0,none to drop
+Date range,Jan-24..Oct-26,OK
+Orders from repeat ClientIDs,282,legitimate repeat clients - keep
+CentreIDs not in Centres,0,FK OK
+TestIDs not in Tests,0,FK OK
+Non-completed orders,329,"keep in fact table, flag IsCompleted=0"
+Non-completed with revenue > 0,0,rule holds
+Rejected status vs SampleRejectedFlag mismatch,0,consistent
+Completed: revenue != list*(1-discount),0,pricing logic reconciles
+Completed: cost outside 0.5x-1.5x std cost,0,cost within normal band
+TAT outliers (IQR on TAT/target),109,flagged; threshold ratio=1.78
+TAT breaches vs target,49.8%,"KPI, not an error"
